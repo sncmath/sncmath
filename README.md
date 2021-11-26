@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @sncmath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sncmath/sncmath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @sncmath [Suraj N Chandrashekarmath] [email: sncmath@gmail.com]
+- 👀 I’m interested in coding, thoughtful interactions, simple layouts and designs
+- 🌱 I’m currently learning java and web development.
