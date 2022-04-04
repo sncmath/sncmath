@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sncmath [Suraj N Chandrashekarmath] [email: sncmath@gmail.com]
 - 👀 I’m interested in coding, thoughtful interactions, simple layouts and designs
-- 🌱 I’m currently learning java and web development.
+- 🌱 I’m currently learning java & js.
